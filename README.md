@@ -1,4 +1,4 @@
-# arlington-auditor
+# p25-trunk-logger
 
 control channel logger for P25 trunked radio systems. pulls system details, site frequencies, and talkgroups from RadioReference SOAP API, generates trunk-recorder config.json + talkgroups.csv, runs logging frontend.
 
